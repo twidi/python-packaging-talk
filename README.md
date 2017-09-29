@@ -1,3 +1,3 @@
-# python-packaging-talk
+[Version française](/fr.html)
 
-Talk from PyconFR 2017 about python packaging
+English version to come...
