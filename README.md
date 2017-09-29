@@ -1,3 +1,3 @@
-[Version française](/fr.html)
+[Version française](fr)
 
 English version to come...
